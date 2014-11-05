@@ -17,9 +17,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bjxh.bjybPatient</string>
+				<string>com.yibaomd.YiBaomdPatient</string>
 				<key>bundle-version</key>
-				<string>1.0.6</string>
+				<string>1.0.7</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
